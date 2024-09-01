@@ -1,9 +1,7 @@
-# Facial Recognition and Emotion Detection
-----------
- <img src="./Test_Images/demo.jpeg" alt="index1"/>
-----------
+# Sentiment Detection
 
-### Emotion Detection
+
+
 
 Humans are used to non verbal communication. The emotions expressed increases the clarity of any thoughts and ideas. It becoms quite interesting when a computer can capture this complex feature of humans, ie emotions. This topic talks about building a model which can detect an emotion from an image. There key points to be followed are:
 
